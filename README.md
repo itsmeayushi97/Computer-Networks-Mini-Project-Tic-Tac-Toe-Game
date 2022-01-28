@@ -1,6 +1,3 @@
 # Computer-Networks-Mini-Project-Tic-Tac-Toe-Game
 
-This Project was made to be submitted under Mini Project for University Practical Examimation of Computer Networks.\
-Subject Code: - 18CSC302J\
-B.Tech(CSE)\
-5th Semester, 3rd year\
+This Project was made to be submitted under Mini Project for University Practical Examimation of Computer Networks.
